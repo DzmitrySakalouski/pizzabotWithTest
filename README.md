@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the macOS Console Tool based on Swift, which represent a bot for delivering pizza
+This is the macOS Console Tool based on Swift, which represents a bot for delivering pizza
 
 ## Run the app using Xcode
 
