@@ -6,7 +6,7 @@ This is the macOS Console Tool based on Swift, which represents a bot for delive
 
 ## How it works
 
-When tha app starts - user should provide pizza locations and the map size to the bot. According to map size bot checks if it can deliver pizza or not (in case if coordinates of location go out the map). In each location bot drops the pizza for customer and tells how much 
+When tha app starts - user should provide pizza locations and the map size to the bot. According to map size bot checks if it can deliver pizza or not (in case if coordinates of location go out the map). In each location bot drops the pizza for customer and tells  
 how many deliveries are left. After the bot is done with all orders - it comes back to the base.
 ## Run the app using Xcode
 
