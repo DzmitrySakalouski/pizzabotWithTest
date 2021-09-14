@@ -18,3 +18,9 @@ First of all try to clean App Build folder (Cmd+Shift+K). If that will not help 
 ## Testing
 
 Test suite included.
+
+## Run Tests
+### Using Navigator:
+You can run all tests in the class or just single test. Steps would be:
+1) go to Test tab in the navigator
+2) hold the pointer over test bundle (class or single test) name and click the Run button that appears on the right
