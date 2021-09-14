@@ -9,7 +9,7 @@ import Foundation
 
 public class Location: Equatable {
     public static func == (lhs: Location, rhs: Location) -> Bool {
-        return lhs.x == rhs.x && lhs.y == lhs.y
+        return lhs.x == rhs.x && lhs.y == rhs.y
     }
     
     public var x: Int
